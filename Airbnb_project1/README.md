@@ -12,9 +12,9 @@ The following Airbnb activity is included in this Boston dataset:
 
 I chose the Boston Airbnb Dataset to understand:
 
-**1. What areas are the most expensive and busy areas to stay in Boston?**
-**2. Are certain neighborhoods more expensive than others, and by how much?**
-**3. Are certain neighborhoods busier at different times of the year?**
+**1. What areas are the most expensive and busy areas to stay in Boston?**\n
+**2. Are certain neighborhoods more expensive than others, and by how much?**\n
+**3. Are certain neighborhoods busier at different times of the year?**\n
 
 ### Acknowledgement
 This dataset is part of Airbnb Inside, and the original source [can be found here](http://insideairbnb.com/get-the-data.html).
