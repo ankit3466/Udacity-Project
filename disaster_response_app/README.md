@@ -36,10 +36,10 @@ The app uses a ML model to categorize any new messages received, and the reposit
 ## Screenshots
 
 ***Screenshot 1: App Front Page***
-![Screenshot 1](https://github.com/gkhayes/disaster_response_app/blob/master/Screenshot1.JPG)
+![Screenshot 1](https://github.com/ankit3466/disaster_response_app/blob/master/Screenshot1.JPG)
 
 ***Screenshot 2: App Results Page***
-![Screenshot 2](https://github.com/gkhayes/disaster_response_app/blob/master/Screenshot2.JPG)
+![Screenshot 2](https://github.com/ankit3466/disaster_response_app/blob/master/Screenshot2.JPG)
 
 
 
